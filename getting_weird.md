@@ -6,7 +6,7 @@
 
 What : Presenting an overview of contemporary art and design realized with code.
 
-Why : This the type of work that got me interested in programming. Looking to the fringes of any medium (I think) can provide insights and inspiration to make the everyday practice more interesting for both users and designers. 
+Why : This is the type of work that got me interested in programming. Looking to the fringes of any medium (I think) can provide insights and inspiration to make the everyday practice more interesting for both users and designers. 
 
 ----
 
